@@ -2,7 +2,7 @@
 
 ## 1. Giới thiệu
 
-Bài thực hành kiểm thử hiệu năng website sử dụng Apache JMeter.
+Bài thực hành kiểm thử hiệu năng website vnexpress.net sử dụng Apache JMeter.
 
 Mục tiêu của bài test:
 
