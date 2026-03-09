@@ -105,6 +105,6 @@ Qua các kịch bản kiểm thử:
 
 # 4. Tài liệu đính kèm
 
-* File JMeter test plan: `website-performance-test.jmx`
+* File JMeter test plan: [website-performance-test.jmx](./website-performance-test.jmx)
 * Kết quả kiểm thử CSV
 * Screenshot kết quả Summary Report
